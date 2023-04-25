@@ -15,4 +15,25 @@ body {
 
 .header {
     display: flex;
+    height: 200px;
+}
+
+.title-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+    display: flex;
+    width: 75%;
+    height: 100%;
+    font-size: 30px;
+
+}
+
+.userpic {
+    display: flex;
+    width: 25%;
+    height: 100%;
+    border: 2px solid blue;
+
 }
